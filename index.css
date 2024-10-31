@@ -1,0 +1,35 @@
+#headerr{
+    background-color: blue;
+    height: 75px;
+    font-size: 18px;
+
+}
+
+body{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    
+   
+
+
+}
+
+#box{
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+}
+
+.overskift{
+    font-size: 15px;
+}
+
+#pizzapic{
+    width: 400px;
+
+}
